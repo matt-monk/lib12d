@@ -11,6 +11,9 @@ The 12dPL already comes with many function calls for creating and manipulating o
 ### 12d Model
 For more information about the 12d Model software or to purchase a copy, please refer to the official website at [www.12d.com](http://www.12d.com/) .
 
+### License
+All code is licensed according to the terms and conditions in the corresponding [LICENSE](LICENSE) file.
+
 ### Disclaimer
 This project and all data contained within is not endorsed or officially support by 12d Solutions in any way. 12d, 12d Model, 12d Synergy and associated logos are trademarks of 12d Solutions Pty Ltd and used with permission.
 
